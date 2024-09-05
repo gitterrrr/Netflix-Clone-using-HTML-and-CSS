@@ -26,4 +26,11 @@ git clone https://github.com/gitterrrr/Netflix-Clone-using-HTML-and-CSS.git
 cd Netflix-Clone-using-HTML-and-CSS
 ```
 ## Screenshots
-![ss1](./assets/images/Screenshot%202024-09-06%20012249.png)
+![ss1](./assets/Images/ss1.png)
+![ss2](./assets/Images/ss2.png)
+![ss3](./assets/Images/ss3.png)
+![ss4](./assets/Images/ss4.png)
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
+
